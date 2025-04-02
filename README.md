@@ -2,7 +2,4 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/robertrichter)
 
-[![rrcomtech's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrcomtech)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrcomtech&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](./neofetch.png)
