@@ -3,6 +3,8 @@ title: "Academic Portfolio"
 date: 2025-12-07
 ---
 
+# Academic Portfolio
+
 <section class="introduction">
     <p>
         I research network measurements with a focus on LEO satellite networking.
