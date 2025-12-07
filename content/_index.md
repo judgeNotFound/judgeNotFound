@@ -23,7 +23,7 @@ date: 2025-12-07
             </h3>
             <p class="entry-meta">
                 <span class="venue">IFIP Networking '25</span><br>
-                <span class="authors"><u>R. Richter</u>, Vasilis Ververis, Vaibhav Bajpai</span>
+                <span class="authors"><u>R. Richter</u>, V. Ververis, V. Bajpai</span>
             </p>
         </article>
     </section>
