@@ -19,7 +19,7 @@ date: 2025-12-07
         <article class="timeline-entry">
             <p class="entry-type">Conference Paper</p>
             <h3 class="entry-title">
-                <a href="pdfs/starlink-latency-and-packet-loss-insights.pdf">Starlink Latency and Packet Loss Insights</a>
+                <a href="pdfs/starlink-latency-and-packet-loss-insights.pdf">Breaking Through the Clouds: Performance Insights into Starlink’s Latency and Packet Loss</a>
             </h3>
             <p class="entry-meta">
                 <span class="venue">IFIP Networking '25</span><br>
