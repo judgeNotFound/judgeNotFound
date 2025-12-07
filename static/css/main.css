@@ -38,7 +38,7 @@ a:hover {
 header {
     max-width: 700px;
     margin: 0 auto;
-    padding: 4rem 0 3rem;
+    padding: 2rem 0 1rem;
     border-bottom: 1px solid var(--color-light);
 }
 
