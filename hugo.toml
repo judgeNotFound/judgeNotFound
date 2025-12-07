@@ -1,0 +1,16 @@
+baseURL = "https://robert-richter.me/"
+languageCode = "en-us"
+title = "Robert Richter"
+
+# Build settings
+buildDrafts = false
+buildFuture = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Allows raw HTML in markdown content
+
+[params]
+  description = "Personal academic portfolio of Robert Richter"
+  author = "Robert Richter"
