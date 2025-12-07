@@ -6,8 +6,8 @@ date: 2025-12-07
 <section class="introduction">
     <p>
         I research network measurements with a focus on LEO satellite networking.
-        Also, I am an open-source enthusiast and try to contribute whether I think
-        it is helping the tech-community.
+        Also, I am an open-source enthusiast and try to contribute in projects 
+        that are helping the tech-community.
     </p>
 </section>
 
