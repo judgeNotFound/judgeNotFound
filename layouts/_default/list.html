@@ -6,7 +6,21 @@
     {{ range .Pages }}
     <li>
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>.
-        {{ .Params.Author }}
+        {{ range $ind, $name := .Params.Author }}
+            {{- $parts := split $name " " -}}
+            {{- $firstName := index $parts 0 -}}
+            {{- $lastName := index $parts (sub (len $parts) 1) -}}
+            {{- $shortName := printf "%s. %s" (substr $firstName 0 1) $lastName -}}
+
+            {{- if or (eq $name "Robert Richter") (eq $shortName "R. Richter") -}}
+                <u>{{ $shortName }}</u>
+            {{- else if or (eq $name "Vaibhav Bajpai") (eq $shortName "V. Bajpai") -}}
+                <a href="https://vaibhavbajpai.com" style="text-decoration: none;">{{ $shortName }}</a>
+            {{- else -}}
+                {{ $shortName }}
+            {{- end -}}
+            {{- if lt $ind (sub (len $.Params.Author) 1) }}, {{ end -}}
+        {{ end }}
         (<time>{{ .Date.Format "January 2, 2006" }}</time>)
     </li>
     {{ end }}
