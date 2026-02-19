@@ -8,7 +8,7 @@ date: 2025-12-07
 <section class="introduction">
     <p>
         I research network measurements with a focus on LEO satellite networking.
-        Also, I am an open-source enthusiast and try to contribute in projects 
+        Also, I am an open-source enthusiast and try to contribute in projects
         that are helping the tech-community.
     </p>
 </section>
@@ -19,13 +19,17 @@ date: 2025-12-07
         <article class="timeline-entry">
             <p class="entry-type">Conference Paper</p>
             <h3 class="entry-title">
-                <a href="pdfs/starlink-latency-and-packet-loss-insights.pdf">Breaking Through the Clouds: Performance Insights into Starlink’s Latency and Packet Loss</a>
+                Breaking Through the Clouds: Performance Insights into Starlink’s Latency and Packet Loss</a>
             </h3>
             <p class="entry-meta">
                 <span class="venue">IFIP Networking '25</span><br>
+                <span>
+                    <a href="pdfs/starlink-latency-and-packet-loss-insights.pdf">Paper</a> |
+                    <a href="pdfs/starlink-latency-and-packet-loss-insights-presentation.pdf">Presentation</a> |
+                    <a href="https://youtu.be/zBkzQqpp2-0?si=KJ8ZuzeFiLeVAcpI">IETF 123 maprg Talk</a>
+                </span><br>
                 <span class="authors"><u>R. Richter</u>, V. Ververis, V. Bajpai</span>
             </p>
         </article>
     </section>
 </section>
-
