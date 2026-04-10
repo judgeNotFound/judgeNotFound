@@ -19,7 +19,7 @@ date: 2025-12-07
         <article class="timeline-entry">
             <p class="entry-type">Conference Paper</p>
             <h3 class="entry-title">
-                Breaking Through the Clouds: Performance Insights into Starlink’s Latency and Packet Loss</a>
+                Breaking Through the Clouds: Performance Insights into Starlink’s Latency and Packet Loss
             </h3>
             <p class="entry-meta">
                 <span class="venue">IFIP Networking '25</span><br>
@@ -29,6 +29,20 @@ date: 2025-12-07
                     <a href="https://youtu.be/zBkzQqpp2-0?si=KJ8ZuzeFiLeVAcpI">IETF 123 maprg Talk</a>
                 </span><br>
                 <span class="authors"><u>R. Richter</u>, V. Ververis, V. Bajpai</span>
+            </p>
+        </article>
+        <h2>2023</h2>
+        <article class="timeline-entry">
+            <p class="entry-type">Patent</p>
+            <h3 class="entry-title">
+                Auxiliary Measurement Display Device, Computer Program Conduct, Measurement Server, Measurement System and Method
+            </h3>
+            <p class="entry-meta">
+                <span class="venue">Published as CN117146874A (China), EP4286990A1 (Europe), US12547358B2, and US2023385006A1 (US) held by Rohde & Schwarz</span><br>
+                <span>
+                    <a href="https://worldwide.espacenet.com/patent/search/family/081877860/publication/EP4286990A1?q=EP4286990A1">Patent Registry</a>
+                </span><br>
+                <span class="authors"><u>R. Richter</u>, M. Nebendahl, M. Bret, J. Al Msanne, P. Duard, F. Uebernickel, C. Marx</span>
             </p>
         </article>
     </section>
