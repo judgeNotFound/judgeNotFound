@@ -15,6 +15,17 @@ date: 2025-12-07
 
 <section class="projects">
     <section class="timeline-year">
+        <h2>2026</h2>
+        <article class="timeline-entry">
+            <p class="entry-type">Conference Paper</p>
+            <h3 class="entry-title">
+                Understanding DNS Dynamics over the Starlink Network
+            </h3>
+            <p class="entry-meta">
+                <span class="venue">IFIP Networking '26</span><br>
+                <span class="authors"><u>R. Richter</u>, V. Bajpai</span>
+            </p>
+        </article>
         <h2>2025</h2>
         <article class="timeline-entry">
             <p class="entry-type">Conference Paper</p>
