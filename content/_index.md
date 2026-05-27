@@ -24,9 +24,11 @@ date: 2025-12-07
             <p class="entry-meta">
                 <span class="venue">IFIP Networking '26</span><br>
                 <span>
-                    <a href="pdfs/starlink-dns-dynamics.pdf">Paper</a>
+                    <a href="pdfs/starlink-dns-dynamics.pdf">Paper</a> |
+                    <a href="pdfs/starlink-dns-dynamics-presentation.pdf">Presentation</a>
                 </span><br>
-                <span class="authors"><u>R. Richter</u>, V. Bajpai</span>
+                <span class="authors"><u>R. Richter</u>, V. Bajpai</span><br />
+                <span class="highlights">[ Honorable Mention - In Top 3 Papers of Conference ]</span>
             </p>
         </article>
         <h2>2025</h2>
