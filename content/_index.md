@@ -28,7 +28,7 @@ date: 2025-12-07
                     <a href="pdfs/starlink-dns-dynamics-presentation.pdf">Presentation</a>
                 </span><br>
                 <span class="authors"><u>R. Richter</u>, V. Bajpai</span><br />
-                <span class="highlights">[ Honorable Mention - In Top 3 Papers of Conference ]</span>
+                <span class="highlights"><a href="pdfs/2026-ifip-networking-best-paper-honorable-mention.pdf">[ Best Paper: Honorable Mention ]</a></span>
             </p>
         </article>
         <h2>2025</h2>
