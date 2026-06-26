@@ -11,6 +11,11 @@ date: 2025-12-07
         Also, I am an open-source enthusiast and try to contribute in projects
         that are helping the tech-community.
     </p>
+    <p class="tools">
+        <span><b>Tools</b> • </span>
+        hev3-rust |
+        <a href="https://dns.diic-hpi.org">DNS Resolver Recommender</a>
+    </p>
 </section>
 
 <section class="projects">
