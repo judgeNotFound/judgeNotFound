@@ -30,7 +30,8 @@ date: 2025-12-07
                 <span class="venue">IFIP Networking '26</span><br>
                 <span>
                     <a href="pdfs/starlink-dns-dynamics.pdf">Paper</a> |
-                    <a href="pdfs/starlink-dns-dynamics-presentation.pdf">Presentation</a>
+                    <a href="pdfs/starlink-dns-dynamics-presentation.pdf">Presentation</a> |
+                    <a href="pdfs/starlink-dns-dynamics-poster.pdf">Poster @ TMA '26</a>
                 </span><br>
                 <span class="authors"><u>R. Richter</u>, V. Bajpai</span><br />
                 <span class="highlights"><a href="pdfs/2026-ifip-networking-best-paper-honorable-mention.pdf">[ Best Paper: Honorable Mention ]</a></span>
