@@ -14,7 +14,7 @@ date: 2025-12-07
     <p class="tools">
         <span><b>Tools</b> • </span>
         hev3-rust |
-        <a href="https://dns.diic-hpi.org">DNS Resolver Recommender</a>
+        <a href="https://dns.diic-hpi.org">DoH Bench</a>
     </p>
 </section>
 
@@ -22,12 +22,23 @@ date: 2025-12-07
     <section class="timeline-year">
         <h2>2026</h2>
         <article class="timeline-entry">
+            <p class="entry-type">Student Workshop</p>
+            <h3 class="entry-title">
+                DoH Bench: Measuring Public DoH Resolvers from User's Browser
+            </h3>
+            <p class="entry-meta">
+                <span class="venue">ACM Internet Measurement Conference (IMC) Student Workshop '26</span><br>
+                <span class="authors">J. Reimann, <u>R. Richter</u>, V. Bajpai</span><br />
+            </p>
+        </article>
+        <article class="timeline-entry">
             <p class="entry-type">Conference Paper</p>
             <h3 class="entry-title">
                 Understanding DNS Dynamics over the Starlink Network
             </h3>
             <p class="entry-meta">
-                <span class="venue">IFIP Networking '26</span><br>
+                <span class="venue">IFIP Networking '26</span>
+                <span class="acceptance-rate">[ 35%, 60/168 ]</span><br />
                 <span>
                     <a href="pdfs/starlink-dns-dynamics.pdf">Paper</a> |
                     <a href="pdfs/starlink-dns-dynamics-presentation.pdf">Presentation</a> |
