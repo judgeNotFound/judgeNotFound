@@ -24,7 +24,7 @@ date: 2025-12-07
         <article class="timeline-entry">
             <p class="entry-type">Student Workshop</p>
             <h3 class="entry-title">
-                DoH Bench: Measuring Public DoH Resolvers from User's Browser
+                DoH Bench: Measuring Public DoH Resolvers from the User's Browser
             </h3>
             <p class="entry-meta">
                 <span class="venue">ACM Internet Measurement Conference (IMC) Student Workshop '26</span><br>
