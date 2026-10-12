@@ -26,11 +26,11 @@ date: 2025-12-07
             <h3 class="entry-title">
                 DoH Bench: Measuring Public DoH Resolvers from the User's Browser
             </h3>
-            <span>
-                <a href="pdfs/2026-imc-student-workshop-doh-bench-presentation.pdf">Presentation</a>
-            </span><br>
             <p class="entry-meta">
                 <span class="venue">ACM Internet Measurement Conference (IMC) Student Workshop '26</span><br>
+                <span>
+                    <a href="pdfs/2026-imc-student-workshop-doh-bench-presentation.pdf">Presentation</a>
+                </span><br>
                 <span class="authors">J. Reimann, <u>R. Richter</u>, V. Bajpai</span><br />
             </p>
         </article>
