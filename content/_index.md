@@ -84,7 +84,11 @@ date: 2025-12-07
     </section>
 </section>
 
-<section>
+<section class="projects">
+    <div style="margin-bottom: 2em;">
+        <h3 class="theses">Certificates</h3>
+        <a href="/pdfs/teaching-starter-kit-certificate.pdf">Teaching Starter Kit for Higher Education (2026)</a>
+    </div>
     <div>
         <h3 class="theses">Advised Master's Theses</h3>
         <b>2026</b>
