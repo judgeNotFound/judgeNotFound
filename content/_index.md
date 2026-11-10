@@ -1,6 +1,5 @@
 ---
 title: "Academic Portfolio"
-date: 2025-12-07
 ---
 
 # Academic Portfolio
@@ -14,7 +13,8 @@ date: 2025-12-07
     <p class="tools">
         <span><b>Tools</b> • </span>
         hev3-rust |
-        <a href="https://dns.diic-hpi.org">DoH Bench</a>
+        <a href="https://dns.diic-hpi.org">DoH Bench</a> |
+        <a href="https://ip2org.robert-richter.me">IP2Org</a>
     </p>
 </section>
 
